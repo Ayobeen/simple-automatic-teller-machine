@@ -1,2 +1,6 @@
-# zuri-automatic-teller-machine
-Simple python bank app 
+# Simple-Automatic-Teller-Machine
+## Features
+Deposit money, withdraw money, check balance
+
+## Technology Used
+Python
